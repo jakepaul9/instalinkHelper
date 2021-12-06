@@ -25,7 +25,7 @@ style.innerHTML = `
     right:10px;
     top:10px;
     width:200px;
-    height:50px;
+    height:40px;
     z-index:9999;
     background:white;
     color:black;
