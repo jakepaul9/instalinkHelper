@@ -29,6 +29,7 @@ style.innerHTML = `
     z-index:9999;
     background:white;
     color:black;
+    border-radius:10px;
    }
   .notes {
     width:60%;
