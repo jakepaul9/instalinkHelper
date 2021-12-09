@@ -118,7 +118,7 @@ document.addEventListener('click', () => {
           click2.click()
           counter++
         }
-      }, 1000)
+      }, 400)
       console.log("delete is active")
   }
 })
